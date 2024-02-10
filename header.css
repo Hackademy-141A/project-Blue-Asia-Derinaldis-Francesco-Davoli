@@ -1,0 +1,302 @@
+.padrecard {
+    width: 500px;
+    height: 250px;
+    border: 3px solid rgb(201, 220, 172);
+    border-radius: 10%;
+    box-shadow: 10px 10px 5px #dedede;
+}
+
+.titolon1 {
+    font-family: 'Black Ops One', system-ui;
+    font-family: 'Bungee Spice', sans-serif;
+    font-family: 'Climate Crisis', sans-serif;
+    font-family: 'Condiment', cursive;
+    font-family: 'DotGothic16', sans-serif;
+    font-family: 'Faster One', system-ui;
+    font-family: 'Honk', system-ui;
+    font-family: 'Lilita One', sans-serif;
+    font-family: 'Linden Hill', serif;
+    font-family: 'Nabla', system-ui;
+    font-family: 'Nova Square', sans-serif;
+    font-family: 'Protest Strike', sans-serif;
+    font-family: 'Rampart One', sans-serif;
+    font-family: 'Roboto', sans-serif;
+    font-family: 'Rubik Maps', system-ui;
+    font-family: 'Suez One', serif;
+    font-size: 50px;
+    color: rgb(34, 87, 162);
+   
+}
+
+.paragrafon1 {
+    font-size: larger;
+    font-family: 'Offside', sans-serif;
+    
+
+}
+
+.buttonpersonale {
+    width: 90px;
+    height: 90px;
+    border: 3px solid black;
+    border-radius: 10%;
+    box-shadow: 10px 10px 5px #dedede;
+}
+
+.iconadimensioni {
+  font-size: 50px;
+  color: red;
+}
+
+.buttonpersonale1 {
+    width: 90px;
+    height: 90px;
+    border: 3px solid black;
+    border-radius: 10%;
+    box-shadow: 10px 10px 5px #dedede;
+}
+
+.iconadimensioni1 {
+  font-size: 50px;
+  color: green;
+}
+
+
+.iconadimensioni3 {
+    font-size: 50px;
+    color: rgb(183, 225, 55);
+  }
+
+  .padrebutton3 {
+    position: relative;
+  }
+
+.padreuu {
+    position: absolute;
+    margin-left: 605px;
+}
+
+.padreuu1 {
+    position: absolute;
+    margin-left: 1590px;
+}
+
+.padreuu2 {
+    position: absolute;
+    margin-left: 2560px;
+}
+
+.iconadimensioni6 {
+    
+    font-size: 50px;
+    color: rgba(31, 88, 212, 0.815);
+  }
+  
+.iconadimensioni7 {
+    font-size: 50px;
+    color: darkgrey;
+  }
+
+    
+.iconadimensioni8 {
+    font-size: 50px;
+    color: black;
+  }
+
+  
+  .padre12 {
+    margin-top: 300px;
+  }
+
+  .cardpersonale1 {
+    width: 300px;
+    height: 200px;
+ 
+  }
+
+  .cardpersonale2 {
+    width: 300px;
+    height: 200px;
+    
+  }
+
+  .padrecol {
+    position: relative;
+  }
+
+  .padrecol2 {
+    position: absolute;
+    margin-left: 350px;
+    width: 300px;
+    height: 200px;
+
+  }
+
+  
+  .cardpersonale77 {
+    width: 300px;
+    height: 200px;
+    border: 3px solid rgb(201, 220, 172);
+    border-radius: 10%;
+    box-shadow: 10px 10px 5px #dedede;
+    
+ 
+  }
+
+  
+  .cardpersonale78 {
+    width: 300px;
+    height: 180px;
+    border: 3px solid rgb(201, 220, 172);
+    border-radius: 10%;
+    box-shadow: 10px 10px 5px #dedede;
+ 
+  }
+
+  .card-title2 {
+    font-family: 'Fascinate', system-ui;
+    font-size: 60px;
+  }
+
+  .icona-mia {
+    font-size: 30px;
+  }
+
+  .paragrafo-mio {
+    font-size: 30px;
+  }
+
+  .paragrafo-mio1 {
+    font-size: 20px;
+  }
+
+
+   
+  .padre13 {
+    margin-top: 20px;
+    
+  }
+
+
+    
+  .padre14 {
+  
+    margin-left: 100px;
+  }
+
+
+  .cardpersonale80 {
+    width: 400px;
+    height: 210px;
+    border: 3px solid rgb(201, 220, 172);
+    border-radius: 10%;
+    box-shadow: 10px 10px 5px #dedede;
+    
+ 
+  }
+
+  
+  .cardpersonale81 {
+    width: 400px;
+    height: 210px;
+    border: 3px solid rgb(201, 220, 172);
+    border-radius: 10%;
+    box-shadow: 10px 10px 5px #dedede;
+ 
+  }
+
+
+  .padrecol4 {
+    position: relative;
+  }
+
+  .padrecol3 {
+    position: absolute;
+    margin-left: 450px;
+    width: 300px;
+    height: 200px;
+
+  }
+
+  
+  .paragrafo-mio2 {
+    font-size: 20px;
+  }
+
+  .paragrafo-mio3 {
+    font-size: 30px;
+  }
+
+      
+  .padre15 {
+  
+    margin-top: 300px;
+    margin-left: 1800px;
+  }
+
+ 
+
+
+  
+  .cardpersonale83 {
+    width: 400px;
+    height: 250px;
+    border: 3px solid rgb(201, 220, 172);
+    border-radius: 10%;
+    box-shadow: 10px 10px 5px #dedede;
+    
+ 
+  }
+
+  
+  .cardpersonale82 {
+    width: 400px;
+    height: 210px;
+    border: 3px solid rgb(201, 220, 172);
+    border-radius: 10%;
+    box-shadow: 10px 10px 5px #dedede;
+ 
+  }
+
+
+  
+  .cardpersonale85 {
+    width: 400px;
+    height: 250px;
+    border: 3px solid rgb(201, 220, 172);
+    border-radius: 10%;
+    box-shadow: 10px 10px 5px #dedede;
+    
+ 
+  }
+
+  
+  .cardpersonale86 {
+    width: 400px;
+    height: 210px;
+    border: 3px solid rgb(201, 220, 172);
+    border-radius: 10%;
+    box-shadow: 10px 10px 5px #dedede;
+ 
+  }
+
+     
+  .padre20 {
+    margin-top: 20px;
+    margin-left: 1600px;
+    
+  }
+
+  .icona-mia7 {
+    color: rgb(22, 112, 209);
+    font-size: 30px;
+  }
+
+ 
+
+
+
+
+
+
+  
