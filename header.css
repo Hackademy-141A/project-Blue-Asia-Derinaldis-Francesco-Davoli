@@ -1,46 +1,91 @@
+header {
+  height: 100vh;
+  background: url(wave2.svg), url(wave1.svg),linear-gradient(rgba(0, 0, 0, 0.719),rgba(0, 0, 0, 0)),url(header.jpg);
+  background-position: bottom,0% 96%,center,bottom;
+  background-repeat: no-repeat;
+}
+
+.scritta1 {
+  font-family: 'Black Ops One', system-ui;
+  color: rgb(34, 87, 162);
+}
+
+.quotes {
+  margin-top: 50px;
+}
+
+.mar-header {
+  margin-top: 50px;
+}
+
+.mar8 {
+  text-align:center ;
+}
+
+.lineacard {
+  border-bottom: 3px solid orange;
+}
+
+.card1 {
+  height: 350px;
+  width: 280px;
+  background-image:linear-gradient(rgba(0, 0, 0, 0.774),rgba(0, 0, 0, 0.203)), url(1.png) ;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.card2 {
+  height: 350px;
+  width: 280px;
+  background-image:linear-gradient(rgba(0, 0, 0, 0.774),rgba(0, 0, 0, 0.203)), url(2.png) ;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.card3 {
+  height: 350px;
+  width: 280px;
+  background-image:linear-gradient(rgba(0, 0, 0, 0.774),rgba(0, 0, 0, 0.203)), url(3.png) ;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.card4 {
+  height: 350px;
+  width: 280px;
+  background-image:linear-gradient(rgba(0, 0, 0, 0.774),rgba(0, 0, 0, 0.203)), url(4.png) ;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
 .padrecard {
-    width: 500px;
-    height: 250px;
-    border: 3px solid rgb(201, 220, 172);
-    border-radius: 10%;
-    box-shadow: 10px 10px 5px #dedede;
+  width: 500px;
+  height: 250px;
+  border: 3px solid rgb(201, 220, 172);
+  border-radius: 10%;
+  box-shadow: 10px 10px 5px #dedede;
 }
 
 .titolon1 {
-    font-family: 'Black Ops One', system-ui;
-    font-family: 'Bungee Spice', sans-serif;
-    font-family: 'Climate Crisis', sans-serif;
-    font-family: 'Condiment', cursive;
-    font-family: 'DotGothic16', sans-serif;
-    font-family: 'Faster One', system-ui;
-    font-family: 'Honk', system-ui;
-    font-family: 'Lilita One', sans-serif;
-    font-family: 'Linden Hill', serif;
-    font-family: 'Nabla', system-ui;
-    font-family: 'Nova Square', sans-serif;
-    font-family: 'Protest Strike', sans-serif;
-    font-family: 'Rampart One', sans-serif;
-    font-family: 'Roboto', sans-serif;
-    font-family: 'Rubik Maps', system-ui;
-    font-family: 'Suez One', serif;
-    font-size: 50px;
-    color: rgb(34, 87, 162);
-   
+  font-family: 'Black Ops One', system-ui;
+  font-size: 50px;
+  color: rgb(34, 87, 162);
+  
 }
 
 .paragrafon1 {
-    font-size: larger;
-    font-family: 'Offside', sans-serif;
-    
-
+  font-size: larger;
+  font-family: 'Offside', sans-serif;
+  
+  
 }
 
 .buttonpersonale {
-    width: 90px;
-    height: 90px;
-    border: 3px solid black;
-    border-radius: 10%;
-    box-shadow: 10px 10px 5px #dedede;
+  width: 90px;
+  height: 90px;
+  border: 3px solid black;
+  border-radius: 10%;
+  box-shadow: 10px 10px 5px #dedede;
 }
 
 .iconadimensioni {
@@ -49,11 +94,11 @@
 }
 
 .buttonpersonale1 {
-    width: 90px;
-    height: 90px;
-    border: 3px solid black;
-    border-radius: 10%;
-    box-shadow: 10px 10px 5px #dedede;
+  width: 90px;
+  height: 90px;
+  border: 3px solid black;
+  border-radius: 10%;
+  box-shadow: 10px 10px 5px #dedede;
 }
 
 .iconadimensioni1 {
@@ -63,240 +108,282 @@
 
 
 .iconadimensioni3 {
-    font-size: 50px;
-    color: rgb(183, 225, 55);
-  }
-
-  .padrebutton3 {
-    position: relative;
-  }
-
-.padreuu {
-    position: absolute;
-    margin-left: 605px;
+  font-size: 50px;
+  color: rgb(183, 225, 55);
 }
 
-.padreuu1 {
-    position: absolute;
-    margin-left: 1590px;
+.padrebutton3 {
+  position: relative;
 }
 
-.padreuu2 {
-    position: absolute;
-    margin-left: 2560px;
+.other {
+  display: flex;
+  justify-content: space-around !important; 
 }
+
+
 
 .iconadimensioni6 {
-    
-    font-size: 50px;
-    color: rgba(31, 88, 212, 0.815);
-  }
   
+  font-size: 50px;
+  color: rgba(31, 88, 212, 0.815);
+}
+
 .iconadimensioni7 {
-    font-size: 50px;
-    color: darkgrey;
-  }
+  font-size: 50px;
+  color: darkgrey;
+}
 
-    
+
 .iconadimensioni8 {
-    font-size: 50px;
-    color: black;
-  }
+  font-size: 50px;
+  color: black;
+}
 
+
+.cardpersonale77 {
+  width: 300px;
+  height: 200px;
+  border: 3px solid rgb(201, 220, 172);
+  border-radius: 10%;
+  box-shadow: 10px 10px 5px #dedede;
   
-  .padre12 {
-    margin-top: 300px;
-  }
+  
+}
 
-  .cardpersonale1 {
-    width: 300px;
-    height: 200px;
- 
-  }
 
-  .cardpersonale2 {
-    width: 300px;
-    height: 200px;
-    
-  }
+.cardpersonale78 {
+  width: 300px;
+  height: 180px;
+  border: 3px solid rgb(201, 220, 172);
+  border-radius: 10%;
+  box-shadow: 10px 10px 5px #dedede;
+  
+}
 
-  .padrecol {
-    position: relative;
-  }
+.card-title2 {
+  font-family: 'Fascinate', system-ui;
+  font-size: 60px;
+}
 
-  .padrecol2 {
+.icona-mia {
+  font-size: 30px;
+}
+
+.paragrafo-mio {
+  font-size: 30px;
+}
+
+.paragrafo-mio1 {
+  font-size: 20px;
+}
+
+
+
+.padre13 {
+  margin-top: 20px;
+  
+}
+
+
+
+
+
+
+.cardpersonale80 {
+  width: 400px;
+  height: 210px;
+  border: 3px solid rgb(201, 220, 172);
+  border-radius: 10%;
+  box-shadow: 10px 10px 5px #dedede;
+  
+  
+}
+
+
+.cardpersonale81 {
+  width: 400px;
+  height: 210px;
+  border: 3px solid rgb(201, 220, 172);
+  border-radius: 10%;
+  box-shadow: 10px 10px 5px #dedede;
+  
+}
+
+
+
+
+
+.paragrafo-mio2 {
+  font-size: 20px;
+}
+
+.paragrafo-mio3 {
+  font-size: 30px;
+}
+
+
+
+
+
+
+
+
+.cardpersonale83 {
+  width: 400px;
+  height: 250px;
+  border: 3px solid rgb(201, 220, 172);
+  border-radius: 10%;
+  box-shadow: 10px 10px 5px #dedede;
+  
+  
+}
+
+
+.cardpersonale82 {
+  width: 400px;
+  height: 210px;
+  border: 3px solid rgb(201, 220, 172);
+  border-radius: 10%;
+  box-shadow: 10px 10px 5px #dedede;
+  
+}
+
+
+
+.cardpersonale85 {
+  width: 400px;
+  height: 250px;
+  border: 3px solid rgb(201, 220, 172);
+  border-radius: 10%;
+  box-shadow: 10px 10px 5px #dedede;
+  
+  
+}
+
+
+.cardpersonale86 {
+  width: 400px;
+  height: 210px;
+  border: 3px solid rgb(201, 220, 172);
+  border-radius: 10%;
+  box-shadow: 10px 10px 5px #dedede;
+  
+}
+
+
+
+
+.icona-mia7 {
+  color: rgb(22, 112, 209);
+  font-size: 30px;
+  
+}
+
+.padreuu {
+  height: 20px;
+}
+
+
+.titolon1 {
+  font-family: 'Black Ops One', system-ui;
+  font-family: 'Bungee Spice', sans-serif;
+  font-family: 'Climate Crisis', sans-serif;
+  font-family: 'Condiment', cursive;
+  font-family: 'DotGothic16', sans-serif;
+  font-family: 'Faster One', system-ui;
+  font-family: 'Honk', system-ui;
+  font-family: 'Lilita One', sans-serif;
+  font-family: 'Linden Hill', serif;
+  font-family: 'Nabla', system-ui;
+  font-family: 'Nova Square', sans-serif;
+  font-family: 'Protest Strike', sans-serif;
+  font-family: 'Rampart One', sans-serif;
+  font-family: 'Roboto', sans-serif;
+  font-family: 'Rubik Maps', system-ui;
+  font-family: 'Suez One', serif;
+  font-size: 50px;
+  color: rgb(34, 87, 162);
+  
+}
+
+.padrecard {
+  width: 100vh;
+  height: 270px;
+  border: 3px solid rgb(201, 220, 172);
+  border-radius: 10%;
+  box-shadow: 10px 10px 5px #dedede;
+  
+}
+
+
+
+.paragrafon1 {
+  font-size: larger;
+  font-family: 'Offside', sans-serif;
+  
+  
+}
+
+.imgton{border-radius: 50%; border: 3px solid blue; padding: 10px;}
+
+.bold{font-weight:bolder;}
+
+.mar{margin-top: 150px;}
+.mar1{margin-top: 40px;}
+
+
+
+
+
+/* !CSS TIMELINE */
+.titolon{ font-family: 'Black Ops One', system-ui;
+  color: rgb(34, 87, 162);}
+  
+  
+  .bordo1{border-right: 3px solid rgb(34, 87, 162);}
+  
+  .palla{position: relative;}
+  
+  .palla::before{content:'.';
+    background-color: white;
+    height: 30px;
+    width: 30px;
+    border: 2px solid red;
     position: absolute;
-    margin-left: 350px;
-    width: 300px;
-    height: 200px;
-
-  }
-
-  
-  .cardpersonale77 {
-    width: 300px;
-    height: 200px;
-    border: 3px solid rgb(201, 220, 172);
-    border-radius: 10%;
-    box-shadow: 10px 10px 5px #dedede;
+    left: 644px; 
+    top: 0%;
+    border-radius: 50%;
+    border-color: rgb(34, 87, 162);
+    color: white;}
     
- 
-  }
-
-  
-  .cardpersonale78 {
-    width: 300px;
-    height: 180px;
-    border: 3px solid rgb(201, 220, 172);
-    border-radius: 10%;
-    box-shadow: 10px 10px 5px #dedede;
- 
-  }
-
-  .card-title2 {
-    font-family: 'Fascinate', system-ui;
-    font-size: 60px;
-  }
-
-  .icona-mia {
-    font-size: 30px;
-  }
-
-  .paragrafo-mio {
-    font-size: 30px;
-  }
-
-  .paragrafo-mio1 {
-    font-size: 20px;
-  }
-
-
-   
-  .padre13 {
-    margin-top: 20px;
+    .bordo2{border-left: 3px solid rgb(34, 87, 162) ;}
     
-  }
-
-
+    .alinea{text-align: right;}
     
-  .padre14 {
-  
-    margin-left: 100px;
-  }
-
-
-  .cardpersonale80 {
-    width: 400px;
-    height: 210px;
-    border: 3px solid rgb(201, 220, 172);
-    border-radius: 10%;
-    box-shadow: 10px 10px 5px #dedede;
+    .mar3{margin-top: 10px;}
     
- 
-  }
-
-  
-  .cardpersonale81 {
-    width: 400px;
-    height: 210px;
-    border: 3px solid rgb(201, 220, 172);
-    border-radius: 10%;
-    box-shadow: 10px 10px 5px #dedede;
- 
-  }
-
-
-  .padrecol4 {
-    position: relative;
-  }
-
-  .padrecol3 {
-    position: absolute;
-    margin-left: 450px;
-    width: 300px;
-    height: 200px;
-
-  }
-
-  
-  .paragrafo-mio2 {
-    font-size: 20px;
-  }
-
-  .paragrafo-mio3 {
-    font-size: 30px;
-  }
-
-      
-  .padre15 {
-  
-    margin-top: 300px;
-    margin-left: 1800px;
-  }
-
- 
-
-
-  
-  .cardpersonale83 {
-    width: 400px;
-    height: 250px;
-    border: 3px solid rgb(201, 220, 172);
-    border-radius: 10%;
-    box-shadow: 10px 10px 5px #dedede;
+    .bottone{width: 200px ; height: 40px; background-color:rgb(34, 87, 162) ; color: white; border: 0}
+    .foot{ width: 100vw; height: 500px; }
+    .immag{background-image: linear-gradient(rgb(255, 255, 255), rgba(0 ,0 ,0 , 0.7) , rgba(0, 0, 0, 0.7)), url(./footer.jpg);background-repeat: no-repeat; background-size: cover;}
+    .footer1{height: 300px;}
+    .ff{height: 129.6px;}
+    .titolon2{color: white; font-family:'Black Ops One', system-ui; }
+    .prova{bottom: 50px; color: white; left: 50px;}
+    .prova1{bottom:50px; color: white; right: 50px ;}
+    .icone1{margin-bottom: 50px; margin-left: -80px; margin-top: 50px;
     
- 
-  }
-
-  
-  .cardpersonale82 {
-    width: 400px;
-    height: 210px;
-    border: 3px solid rgb(201, 220, 172);
-    border-radius: 10%;
-    box-shadow: 10px 10px 5px #dedede;
- 
-  }
-
-
-  
-  .cardpersonale85 {
-    width: 400px;
-    height: 250px;
-    border: 3px solid rgb(201, 220, 172);
-    border-radius: 10%;
-    box-shadow: 10px 10px 5px #dedede;
+    }
     
- 
-  }
-
-  
-  .cardpersonale86 {
-    width: 400px;
-    height: 210px;
-    border: 3px solid rgb(201, 220, 172);
-    border-radius: 10%;
-    box-shadow: 10px 10px 5px #dedede;
- 
-  }
-
-     
-  .padre20 {
-    margin-top: 20px;
-    margin-left: 1600px;
+    .scrittegnegne{color:orange;
     
-  }
-
-  .icona-mia7 {
-    color: rgb(22, 112, 209);
-    font-size: 30px;
-  }
-
- 
-
-
-
-
-
-
-  
+    }
+    
+    
+    
+    
+    
+    
+    
+    
+    
