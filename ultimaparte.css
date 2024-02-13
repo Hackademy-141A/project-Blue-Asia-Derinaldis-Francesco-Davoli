@@ -1,0 +1,104 @@
+.titolon1 {
+    font-family: 'Black Ops One', system-ui;
+    font-family: 'Bungee Spice', sans-serif;
+    font-family: 'Climate Crisis', sans-serif;
+    font-family: 'Condiment', cursive;
+    font-family: 'DotGothic16', sans-serif;
+    font-family: 'Faster One', system-ui;
+    font-family: 'Honk', system-ui;
+    font-family: 'Lilita One', sans-serif;
+    font-family: 'Linden Hill', serif;
+    font-family: 'Nabla', system-ui;
+    font-family: 'Nova Square', sans-serif;
+    font-family: 'Protest Strike', sans-serif;
+    font-family: 'Rampart One', sans-serif;
+    font-family: 'Roboto', sans-serif;
+    font-family: 'Rubik Maps', system-ui;
+    font-family: 'Suez One', serif;
+    font-size: 50px;
+    color: rgb(34, 87, 162);
+   
+}
+
+.padrecard {
+    width: 100vh;
+    height: 270px;
+    border: 3px solid rgb(201, 220, 172);
+    border-radius: 10%;
+    box-shadow: 10px 10px 5px #dedede;
+    
+}
+
+
+
+.paragrafon1 {
+    font-size: larger;
+    font-family: 'Offside', sans-serif;
+    
+
+}
+
+.imgton{border-radius: 50%; border: 3px solid blue; padding: 10px;}
+
+.bold{font-weight:bolder;}
+
+.mar{margin-top: 150px;}
+.mar1{margin-top: 40px;}
+
+
+
+
+
+/* !CSS TIMELINE */
+.titolon{ font-family: 'Black Ops One', system-ui;
+    font-family: 'Bungee Spice', sans-serif;
+    font-family: 'Climate Crisis', sans-serif;
+    font-family: 'Condiment', cursive;
+    font-family: 'DotGothic16', sans-serif;
+    font-family: 'Faster One', system-ui;
+    font-family: 'Honk', system-ui;
+    font-family: 'Lilita One', sans-serif;
+    font-family: 'Linden Hill', serif;
+    font-family: 'Nabla', system-ui;
+    font-family: 'Nova Square', sans-serif;
+    font-family: 'Protest Strike', sans-serif;
+    font-family: 'Rampart One', sans-serif;
+    font-family: 'Roboto', sans-serif;
+    font-family: 'Rubik Maps', system-ui;
+    font-family: 'Suez One', serif;
+    color: rgb(34, 87, 162);}
+
+
+    .bordo1{border-right: 3px solid rgb(34, 87, 162);}
+
+    .palla{position: relative;}
+
+    .palla::before{content:'.';
+        background-color: white;
+        height: 30px;
+        width: 30px;
+        border: 2px solid red;
+        position: absolute;
+        left: 644px; 
+        top: 0%;
+        border-radius: 50%;
+        border-color: rgb(34, 87, 162);
+        color: white;}
+        
+        .bordo2{border-left: 3px solid rgb(34, 87, 162) ;}
+
+        .alinea{text-align: right;}
+
+        .mar3{margin-top: 10px;}
+
+        .bottone{width: 200px ; height: 40px; background-color:rgb(34, 87, 162) ; color: white; border: 0}
+        .foot{; width: 100vw; height: 500px; }
+        .immag{background-image: linear-gradient(rgb(255, 255, 255), rgba(0 ,0 ,0 , 0.7) , rgba(0, 0, 0, 0.7)), url(./footer.jpg);background-repeat: no-repeat; background-size: cover;}
+        .footer1{height: 300px;}
+      .ff{height: 129.6px;}
+      .titolon2{color: white; font-family:'Black Ops One', system-ui;  ;}
+      .prova{bottom: 50px; color: white; left: 50px;}
+     .prova1{bottom:50px; color: white; right: 50px ;}
+     .icone1{margin-bottom: 50px; margin-left: -80px; margin-top: 50px;}
+
+     .scrittegnegne{color:orange;}
